@@ -1,2 +1,3 @@
-# CP476A-Group-29
-This is the Group 29 for the CP476A Work.
+# CP476A - Project
+This is the Project on Help Desk/Ticketing System for the course CP476.
+Done by Group 29; Sara Aljaafari, Amelie Chu Moy Sang & Efetobore Salubi.
