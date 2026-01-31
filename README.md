@@ -14,15 +14,22 @@ The Help Desk / Ticketing System aims to provide a lightweight, web-based soluti
 
 # Team Members & Roles
 Sara - Wireframes, GitHub setup, project coordination
+
 Amelie - Project proposal, Team Plan
+
 Efetobore - User stories, Data Planning
 
 # Main features
 View list of all support tickets
+
 Create a new support ticket
+
 View ticket details
+
 Add comments to a ticket
+
 Assign an agent to a ticket
+
 Change ticket status and priority
 
 # Screens / Wireframes
