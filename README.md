@@ -1,6 +1,10 @@
 # CP476A - Project - Group 29
 
-# Project Description: 
+Course project for CP476A. This repo holds the planning and code for a
+ticket/booking system.
+
+# Project Description:
+
 Teams, small businesses, and student groups often lack a simple and centralized system to manage internal issues, tasks, and support requests.
 As a result, they frequently rely on:
 
@@ -17,13 +21,15 @@ This leads to lost requests, unclear ownership, poor prioritization, and limited
 The Help Desk / Ticketing System aims to provide a lightweight, web-based solution for submitting, tracking, and managing requests in one centralized platform.
 
 # Team Members & Roles
-Sara - Wireframes, GitHub setup, project coordination
 
-Amelie - Project proposal, Team Plan
+Sara Aljaafari - Wireframes, GitHub setup, project coordination
 
-Efetobore - User stories, Data Planning
+Amelie Chu Moy Sang - Project proposal, Team Plan
+
+Efetobore Salubi - User stories, Data Planning
 
 # Main features
+
 View list of all support tickets
 
 Create a new support ticket
@@ -48,9 +54,24 @@ Ticket Details (View / Edit ticket information and comments)
 
 Wireframes for these screens are included in the milestone submission.
 
+# Repo Structure (Milestone 1)
+
+Basic folders are in place for upcoming development:
+
+- `frontend/` - UI client
+- `backend/` - API + data access
+- `docs/` - planning artifacts
+
+# Planning Artifacts
+
+Milestone 1 user stories and data planning are in:
+
+- `docs/milestone1.txt`
+
 # Project milestones
 
 ## Milestone 1
+
 Project idea selection
 
 Wireframes
